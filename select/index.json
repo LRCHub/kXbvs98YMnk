@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Diamond",
+  "base_artist": "Miyauchi",
+  "createdAt": "2026-02-08T00:52:34.408067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bonny Ship the Diamond",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Bonny_Ship_the_Diamond_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diamond Heart",
+      "artist": "Alan Walker feat. Sophia Somajo",
+      "has_synced": true,
+      "path": "select/02_Diamond_Heart_Alan_Walker_feat._Sophia_Somajo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diamond Heart",
+      "artist": "Sophia Somajo;Alan Walker",
+      "has_synced": true,
+      "path": "select/03_Diamond_Heart_Sophia_Somajo;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diamond Studded Shoes",
+      "artist": "Yola",
+      "has_synced": true,
+      "path": "select/04_Diamond_Studded_Shoes_Yola.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diamond In My Pocket",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/05_Diamond_In_My_Pocket_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Just An Old Chunk Of Coal [But I'm Gonna Be A Diamond Some Day]",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/06_I'm_Just_An_Old_Chunk_Of_Coal_[But_I'm_Gonna_Be_A_Diamond_Some_Day]_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diamond Heart",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/07_Diamond_Heart_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diamond",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_Diamond_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diamond In The Back",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/09_Diamond_In_The_Back_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Chick Bad (Remix) (feat. Diamond, Trina and Eve)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/10_My_Chick_Bad_(Remix)_(feat._Diamond,_Trina_and_Eve)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Diamond Dogs",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Diamond_Dogs_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diamond Dogs",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Diamond_Dogs_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamond Dogs - K-Tel Best Of... Edit; 2004 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_Diamond_Dogs_-_K-Tel_Best_Of..._Edit;_2004_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Diamond Dogs (K-Tel Best of Bowie Edit)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_Diamond_Dogs_(K-Tel_Best_of_Bowie_Edit)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Score (feat. Diamond D)",
+      "artist": "Fugees feat. Diamond D",
+      "has_synced": true,
+      "path": "select/15_The_Score_(feat._Diamond_D)_Fugees_feat._Diamond_D.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blood Diamond",
+      "artist": "Yellow Claw feat. Serebro",
+      "has_synced": true,
+      "path": "select/16_Blood_Diamond_Yellow_Claw_feat._Serebro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diamond",
+      "artist": "Miyauchi",
+      "has_synced": false,
+      "path": "select/pl_01_Diamond_Miyauchi.txt"
+    }
+  ]
+}
